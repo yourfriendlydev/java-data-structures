@@ -1,0 +1,3 @@
+exculde = '{$exclude,*.class}'
+fontSize = 22
+font = 'Menlo'
